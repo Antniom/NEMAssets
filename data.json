@@ -2077,7 +2077,7 @@
           "salePrice": 2,
           "servingType": "copo",
           "servingVolumeMl": 250,
-          "targetBatchMl": 4750,
+          "targetBatchMl": 5250,
           "notes": "1 Garrafão de 5 Litros (rende aprox. 19 copos)",
           "ingredients": [
             {
@@ -2090,9 +2090,9 @@
             {
               "drinkId": "sumos_pack_6_limao",
               "name": "Sumos Pack 6 Limão",
-              "amount": 1000,
+              "amount": 1500,
               "unit": "ml",
-              "ml": 1000
+              "ml": 1500
             },
             {
               "drinkId": "triplice_seco_1l",
@@ -2349,8 +2349,12 @@
           "notes": "",
           "isReceived": false,
           "isPaid": false,
-          "quantities": {},
-          "lastUpdated": 1788813876157,
+          "quantities": {
+            "aguardente_1l": 1,
+            "cachaca_51_1l": 1,
+            "creme_whisky_carolans": 1
+          },
+          "lastUpdated": 1788813911173,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2415,7 +2419,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1788813895262
+      "updatedAt": 1788813911173
     }
   ]
 }
