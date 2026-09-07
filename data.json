@@ -2349,10 +2349,8 @@
           "notes": "",
           "isReceived": false,
           "isPaid": false,
-          "quantities": {
-            "creme_whisky_carolans": 1
-          },
-          "lastUpdated": 1788814623793,
+          "quantities": {},
+          "lastUpdated": 1788814625466,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2417,7 +2415,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1788814623793
+      "updatedAt": 1788814625466
     }
   ]
 }
