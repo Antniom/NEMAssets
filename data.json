@@ -2352,11 +2352,10 @@
           "isPaid": false,
           "quantities": {
             "absinto_milbar": 1,
-            "aguardente_1l": 1,
             "cachaca_51_1l": 1,
             "creme_whisky_carolans": 1
           },
-          "lastUpdated": 1788812425396,
+          "lastUpdated": 1788812897129,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2421,7 +2420,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1788812425396
+      "updatedAt": 1788812897129
     }
   ]
 }
