@@ -2350,10 +2350,9 @@
           "isReceived": false,
           "isPaid": false,
           "quantities": {
-            "cachaca_51_1l": 1,
             "creme_whisky_carolans": 1
           },
-          "lastUpdated": 1788813912353,
+          "lastUpdated": 1788814623793,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2418,7 +2417,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1788813940499
+      "updatedAt": 1788814623793
     }
   ]
 }
