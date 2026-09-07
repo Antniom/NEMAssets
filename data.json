@@ -2063,7 +2063,7 @@
           "id": "o_que_houver",
           "name": "o que houver +/-",
           "category": "mixers",
-          "price": 14.15,
+          "price": 12,
           "volumeMl": 1000,
           "col": "aux",
           "unit": "ml",
@@ -2074,68 +2074,67 @@
         {
           "id": "morancona_5l",
           "name": "Morancona 5L",
-          "type": "garrafao",
+          "salePrice": 2,
           "servingType": "copo",
           "servingVolumeMl": 250,
-          "salePrice": 2,
-          "targetBatchMl": 4750,
+          "targetBatchMl": 5250,
           "notes": "1 Garrafão de 5 Litros (rende aprox. 19 copos)",
           "ingredients": [
             {
               "drinkId": "gasosa_pack_6",
-              "name": "Gasosa",
-              "ml": 2000,
+              "name": "Gasosa Pack 6",
               "amount": 2000,
-              "unit": "ml"
+              "unit": "ml",
+              "ml": 2000
             },
             {
               "drinkId": "sumos_pack_6_limao",
-              "name": "Limão",
-              "ml": 1000,
-              "amount": 1000,
-              "unit": "ml"
+              "name": "Sumos Pack 6 Limão",
+              "amount": 1500,
+              "unit": "ml",
+              "ml": 1500
             },
             {
               "drinkId": "triplice_seco_1l",
-              "name": "Triple Sec",
-              "ml": 500,
+              "name": "Triplice Seco 1L",
               "amount": 500,
-              "unit": "ml"
+              "unit": "ml",
+              "ml": 500
             },
             {
               "drinkId": "vodka_moskovskaya",
-              "name": "Vodka",
-              "ml": 500,
+              "name": "Vodka Moskovskaya",
               "amount": 500,
-              "unit": "ml"
+              "unit": "ml",
+              "ml": 500
             },
             {
               "drinkId": "licor_beirao",
-              "name": "Beirão",
-              "ml": 250,
+              "name": "Licor Beirão",
               "amount": 250,
-              "unit": "ml"
+              "unit": "ml",
+              "ml": 250
             },
             {
               "drinkId": "agua_tonica_pack_4",
-              "name": "Tónica",
-              "ml": 250,
+              "name": "Agua tonica Pack 4",
               "amount": 250,
-              "unit": "ml"
+              "unit": "ml",
+              "ml": 250
             },
             {
               "drinkId": "concentrado_morango",
-              "name": "Concentrado",
-              "ml": 250,
+              "name": "CONCENTRADO DE MORANGO",
               "amount": 250,
-              "unit": "ml"
+              "unit": "ml",
+              "ml": 250
             },
             {
               "drinkId": "tango",
-              "name": "Tango",
-              "ml": 1,
+              "name": "TANGO",
               "amount": 1,
-              "unit": "un"
+              "unit": "un",
+              "ml": 1
             }
           ]
         },
@@ -2421,7 +2420,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1788813085843
+      "updatedAt": 1788813113736
     }
   ]
 }
