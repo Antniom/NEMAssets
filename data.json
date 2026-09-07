@@ -2352,9 +2352,10 @@
           "isPaid": false,
           "quantities": {
             "absinto_milbar": 1,
-            "aguardente_1l": 1
+            "aguardente_1l": 1,
+            "cachaca_51_1l": 1
           },
-          "lastUpdated": 1788812423206,
+          "lastUpdated": 1788812424330,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2419,7 +2420,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1788812423206
+      "updatedAt": 1788812424330
     }
   ]
 }
