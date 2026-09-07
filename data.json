@@ -2349,10 +2349,8 @@
           "notes": "",
           "isReceived": false,
           "isPaid": false,
-          "quantities": {
-            "amendoa_amarga": 2
-          },
-          "lastUpdated": 1788814754135,
+          "quantities": {},
+          "lastUpdated": 1788814755330,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2417,7 +2415,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1788814754135
+      "updatedAt": 1788814755330
     }
   ]
 }
