@@ -2350,11 +2350,10 @@
           "isReceived": false,
           "isPaid": false,
           "quantities": {
-            "absinto_milbar": 4,
             "advocat_zimbro": 1,
             "amendoa_amarga": 2
           },
-          "lastUpdated": 1788814737662,
+          "lastUpdated": 1788814753053,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2419,7 +2418,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1788814737662
+      "updatedAt": 1788814753053
     }
   ]
 }
