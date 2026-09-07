@@ -2063,7 +2063,7 @@
           "id": "o_que_houver",
           "name": "o que houver +/-",
           "category": "mixers",
-          "price": 12,
+          "price": 14.15,
           "volumeMl": 1000,
           "col": "aux",
           "unit": "ml",
@@ -2415,7 +2415,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1788814625466
+      "updatedAt": 1788814650845
     }
   ]
 }
