@@ -2351,9 +2351,10 @@
           "isReceived": false,
           "isPaid": false,
           "quantities": {
-            "absinto_milbar": 1
+            "absinto_milbar": 1,
+            "aguardente_1l": 1
           },
-          "lastUpdated": 1788812422124,
+          "lastUpdated": 1788812423206,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2418,7 +2419,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1788812422124
+      "updatedAt": 1788812423206
     }
   ]
 }
