@@ -2350,9 +2350,10 @@
           "isReceived": false,
           "isPaid": false,
           "quantities": {
-            "absinto_milbar": 1
+            "absinto_milbar": 1,
+            "advocat_zimbro": 5
           },
-          "lastUpdated": 1789164600379,
+          "lastUpdated": 1789164601745,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2417,7 +2418,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1789164600379
+      "updatedAt": 1789164601745
     }
   ]
 }
