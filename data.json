@@ -2349,8 +2349,10 @@
           "notes": "",
           "isReceived": false,
           "isPaid": false,
-          "quantities": {},
-          "lastUpdated": 1789164616221,
+          "quantities": {
+            "aguardente_1l": 1
+          },
+          "lastUpdated": 1789226465787,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2415,7 +2417,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1789164616221
+      "updatedAt": 1789226465787
     }
   ]
 }
