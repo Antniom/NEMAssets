@@ -2352,9 +2352,9 @@
           "quantities": {
             "aguardente_1l": 1,
             "amendoa_amarga": 1,
-            "espumante": 1
+            "espumante": 2
           },
-          "lastUpdated": 1789226483343,
+          "lastUpdated": 1789226484836,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2419,7 +2419,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1789226483343
+      "updatedAt": 1789226484836
     }
   ]
 }
