@@ -2351,10 +2351,9 @@
           "isPaid": false,
           "quantities": {
             "aguardente_1l": 1,
-            "amendoa_amarga": 1,
-            "espumante": 7
+            "amendoa_amarga": 1
           },
-          "lastUpdated": 1789226492231,
+          "lastUpdated": 1789226494390,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2419,7 +2418,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1789226492231
+      "updatedAt": 1789226494390
     }
   ]
 }
