@@ -159,7 +159,7 @@
     },
     {
       "name": "Gonçalo Silva",
-      "role": "Mais Um Sucesso",
+      "role": "Nova Contratação",
       "photo": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/members/members_1789327216096_756.jpg",
       "ig": "@goncalo_silva234"
     },
@@ -2425,5 +2425,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789327359523
+  "autoMaintenanceUntil": 1789327378900
 }
