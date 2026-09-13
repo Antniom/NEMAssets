@@ -162,6 +162,12 @@
       "role": "Mais Um Sucesso",
       "photo": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/members/members_1788055433542_425.jpg",
       "ig": "@goncalo_silva234"
+    },
+    {
+      "name": "Novo Membro",
+      "role": "Vogal",
+      "photo": "",
+      "ig": "@utilizador"
     }
   ],
   "merch": [
@@ -2401,5 +2407,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789318445058
+  "autoMaintenanceUntil": 1789318874437
 }
