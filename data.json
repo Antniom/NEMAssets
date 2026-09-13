@@ -180,6 +180,12 @@
       "role": "Vogal",
       "photo": "",
       "ig": "@utilizador"
+    },
+    {
+      "name": "Novo Membro",
+      "role": "Vogal",
+      "photo": "",
+      "ig": "@utilizador"
     }
   ],
   "merch": [
@@ -2419,5 +2425,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789319014870
+  "autoMaintenanceUntil": 1789319015727
 }
