@@ -183,7 +183,7 @@
     },
     {
       "name": "João",
-      "role": "Vogal",
+      "role": "Nova Contratação",
       "photo": "",
       "ig": "@utilizador"
     }
@@ -2425,5 +2425,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789319054469
+  "autoMaintenanceUntil": 1789319066386
 }
