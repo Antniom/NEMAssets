@@ -337,7 +337,7 @@
     },
     {
       "name": "Sweat",
-      "price": "28",
+      "price": "30",
       "description": "Descrição...",
       "images": [],
       "image": "",
@@ -2425,5 +2425,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789339188087
+  "autoMaintenanceUntil": 1789339196644
 }
