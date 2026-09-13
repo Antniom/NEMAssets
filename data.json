@@ -238,7 +238,7 @@
     },
     {
       "name": "Casaco",
-      "price": "36",
+      "price": "35",
       "description": "Descrição...",
       "images": [],
       "image": "",
@@ -2425,5 +2425,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789339177205
+  "autoMaintenanceUntil": 1789339188087
 }
