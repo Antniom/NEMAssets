@@ -419,24 +419,6 @@
   ],
   "events": [
     {
-      "type": "jantar",
-      "title": "JANTAR DE CURSO",
-      "date": "24 Set.",
-      "dateISO": "2026-09-24T22:00",
-      "status": "AGENDADO",
-      "location": "Adega do Mouzinho",
-      "formUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q91vHdUQkFNN0lSQkdVOFY1NzlPUDFQWlg3QVpWRy4u&embed=true",
-      "nemLogo": "Vetorizado.svg",
-      "partnerLogos": [],
-      "price": "18",
-      "cardColor": "#1a0d00",
-      "bgImage": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/events/events_1788054144394_553.jpg",
-      "tokenInfo": "Bota dred",
-      "weekDates": "",
-      "guestLogo": "",
-      "barLogo": ""
-    },
-    {
       "type": "custom",
       "title": "KARTS",
       "date": "29/03/2026",
@@ -2417,5 +2399,6 @@
       "createdAt": 1788808026903,
       "updatedAt": 1789226501168
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1789318428621
 }
