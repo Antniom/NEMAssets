@@ -178,7 +178,7 @@
     {
       "name": "Santiago Dionísio",
       "role": "Nova Contratação",
-      "photo": "",
+      "photo": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/members/members_1789319546956_150.jpg",
       "ig": "@santi.agodionisio"
     },
     {
@@ -2425,5 +2425,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789319448132
+  "autoMaintenanceUntil": 1789319667896
 }
