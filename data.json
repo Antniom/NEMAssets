@@ -507,8 +507,8 @@
     {
       "type": "convivio",
       "title": "Convívio",
-      "date": "25/09/2026",
-      "dateISO": "2026-09-25T22:00",
+      "date": "24/09/2026",
+      "dateISO": "2026-09-24T22:00",
       "status": "Agendado",
       "location": "Tascadentro",
       "formUrl": "",
@@ -519,7 +519,8 @@
       "price": "",
       "weekDates": "",
       "cardColor": "#1a1a2e",
-      "bgImage": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/events/events_1788483932391_461.png"
+      "bgImage": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/events/events_1788483932391_461.png",
+      "dateISOEnd": "2026-09-25T02:30"
     }
   ],
   "announcementBanner": {
@@ -2400,5 +2401,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789318428621
+  "autoMaintenanceUntil": 1789318445058
 }
