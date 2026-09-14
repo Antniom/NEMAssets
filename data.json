@@ -341,7 +341,8 @@
       "description": "Descrição...",
       "images": [
         "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789377310075_774.png",
-        "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789377337150_740.png"
+        "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789377337150_740.png",
+        "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789377355940_147.png"
       ],
       "image": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789377310075_774.png",
       "formUrl": "",
@@ -2412,5 +2413,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789377458286
+  "autoMaintenanceUntil": 1789377477035
 }
