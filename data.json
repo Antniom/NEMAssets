@@ -2355,10 +2355,8 @@
           "notes": "",
           "isReceived": false,
           "isPaid": false,
-          "quantities": {
-            "absinto_milbar": 1
-          },
-          "lastUpdated": 1789425319367,
+          "quantities": {},
+          "lastUpdated": 1789425320278,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2423,7 +2421,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1789425319367
+      "updatedAt": 1789425320278
     }
   ]
 }
