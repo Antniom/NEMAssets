@@ -427,7 +427,7 @@
         "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789378729401_789.png"
       ],
       "image": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789378698873_640.png",
-      "formUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=rYVrU0ikhkGpr-PMrTMCxXndqcIAr3ZDuS9i_dY7NKNURTlVOTM5TDI0SEdKSEdMS1c2VUVFNFZVQS4u",
+      "formUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=rYVrU0ikhkGpr-PMrTMCxXndqcIAr3ZDuS9i_dY7NKNURTlVOTM5TDI0SEdKSEdMS1c2VUVFNFZVQS4u&embed=true",
       "availableSizes": [
         "S",
         "M",
@@ -2424,5 +2424,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789422463920
+  "autoMaintenanceUntil": 1789422469829
 }
