@@ -417,8 +417,8 @@
       "detailedDescription": "Explicação aprofundada..."
     },
     {
-      "name": "Casaco + Sweat",
-      "price": "00",
+      "name": "Novo Produto",
+      "price": "0.00",
       "description": "Descrição...",
       "images": [],
       "image": "",
@@ -2409,5 +2409,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789378133195
+  "autoMaintenanceUntil": 1789378144420
 }
