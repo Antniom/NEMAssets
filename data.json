@@ -447,7 +447,7 @@
       "dateISO": "",
       "status": "EM AGENDAMENTO",
       "location": "Kartódromo",
-      "formUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q91vHdUQkFNN0lSQkdVOFY1NzlPUDFQWlg3QVpWRy4u&embed=true",
+      "formUrl": "",
       "nemLogo": "Vetorizado.svg",
       "partnerLogos": [],
       "weekDates": "",
@@ -2423,5 +2423,6 @@
       "createdAt": 1788808026903,
       "updatedAt": 1789226501168
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1789379668008
 }
