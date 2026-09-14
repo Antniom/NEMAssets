@@ -2356,9 +2356,9 @@
           "isReceived": false,
           "isPaid": false,
           "quantities": {
-            "advocat_zimbro": 1
+            "aguardente_1l": 1
           },
-          "lastUpdated": 1789425323201,
+          "lastUpdated": 1789425324913,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2423,7 +2423,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1789425323201
+      "updatedAt": 1789425324913
     }
   ]
 }
