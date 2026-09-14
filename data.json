@@ -325,7 +325,7 @@
       "archived": true
     },
     {
-      "name": "Sweat",
+      "name": "Casaco",
       "price": "30",
       "description": "Casaco de Curso 26/27",
       "images": [
@@ -2424,5 +2424,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789380998511
+  "autoMaintenanceUntil": 1789381003733
 }
