@@ -339,8 +339,10 @@
       "name": "Sweat",
       "price": "30",
       "description": "Descrição...",
-      "images": [],
-      "image": "",
+      "images": [
+        "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789377310075_774.png"
+      ],
+      "image": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789377310075_774.png",
       "formUrl": "",
       "model_url": "",
       "model_color": "",
@@ -2409,5 +2411,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789377404892
+  "autoMaintenanceUntil": 1789377431165
 }
