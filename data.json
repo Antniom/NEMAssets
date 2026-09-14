@@ -415,6 +415,14 @@
       "startDateISO": "2026-09-04T09:00",
       "endDateISO": "2026-09-23T23:59",
       "detailedDescription": "Explicação aprofundada..."
+    },
+    {
+      "name": "Novo Produto",
+      "price": "0.00",
+      "description": "Descrição...",
+      "images": [],
+      "image": "",
+      "formUrl": ""
     }
   ],
   "events": [
@@ -2400,5 +2408,6 @@
       "createdAt": 1788808026903,
       "updatedAt": 1789226501168
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1789378108024
 }
