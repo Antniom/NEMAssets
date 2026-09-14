@@ -422,7 +422,10 @@
       "description": "Descrição...",
       "images": [],
       "image": "",
-      "formUrl": ""
+      "formUrl": "",
+      "availableSizes": [
+        "S"
+      ]
     }
   ],
   "events": [
@@ -2409,5 +2412,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789378176754
+  "autoMaintenanceUntil": 1789378180120
 }
