@@ -414,7 +414,7 @@
         "XL"
       ],
       "startDateISO": "2026-09-14T15:30",
-      "endDateISO": "2026-10-01T23:59",
+      "endDateISO": "2026-10-02T23:59",
       "detailedDescription": "Casaco de mecânica com bordado no peito e estampas nas costas e lateral."
     },
     {
@@ -2424,5 +2424,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789381009898
+  "autoMaintenanceUntil": 1789381013662
 }
