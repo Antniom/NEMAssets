@@ -451,7 +451,7 @@
       "nemLogo": "Vetorizado.svg",
       "partnerLogos": [],
       "weekDates": "",
-      "price": "1",
+      "price": "X",
       "cardColor": "#a80000",
       "bgImage": "https://cdn.jsdelivr.net/gh/Antniom/NEMAssets@main/assets/images/events/events_1772749349754_814.jpg",
       "tokenInfo": "",
@@ -2423,5 +2423,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789379508529
+  "autoMaintenanceUntil": 1789379615153
 }
