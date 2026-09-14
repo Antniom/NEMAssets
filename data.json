@@ -432,7 +432,9 @@
         "M",
         "L",
         "XL"
-      ]
+      ],
+      "startDateISO": "2026-09-14T15:00",
+      "endDateISO": "2026-10-01T23:59"
     }
   ],
   "events": [
@@ -2418,5 +2420,6 @@
       "createdAt": 1788808026903,
       "updatedAt": 1789226501168
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1789379109015
 }
