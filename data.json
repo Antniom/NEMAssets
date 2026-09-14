@@ -424,7 +424,10 @@
       "image": "",
       "formUrl": "",
       "availableSizes": [
-        "S"
+        "S",
+        "M",
+        "L",
+        "XL"
       ]
     }
   ],
@@ -2412,5 +2415,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789378180120
+  "autoMaintenanceUntil": 1789378181903
 }
