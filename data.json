@@ -435,7 +435,8 @@
         "XL"
       ],
       "startDateISO": "2026-09-14T15:00",
-      "endDateISO": "2026-10-21T23:59"
+      "endDateISO": "2026-10-21T23:59",
+      "detailedDescription": "Explicação aprofundada..."
     }
   ],
   "events": [
@@ -2422,5 +2423,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789379467317
+  "autoMaintenanceUntil": 1789379471128
 }
