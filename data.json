@@ -240,8 +240,10 @@
       "name": "Casaco",
       "price": "35",
       "description": "Descrição...",
-      "images": [],
-      "image": "",
+      "images": [
+        "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789377882846_955.png"
+      ],
+      "image": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789377882846_955.png",
       "formUrl": "",
       "model_url": "",
       "model_color": "",
@@ -2397,5 +2399,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789377987376
+  "autoMaintenanceUntil": 1789378004200
 }
