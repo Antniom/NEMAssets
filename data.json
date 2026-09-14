@@ -421,7 +421,8 @@
       "price": "60",
       "description": "Descrição...",
       "images": [
-        "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789378698873_640.png"
+        "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789378698873_640.png",
+        "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789378716103_867.png"
       ],
       "image": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789378698873_640.png",
       "formUrl": "",
@@ -2417,5 +2418,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789378820234
+  "autoMaintenanceUntil": 1789378837323
 }
