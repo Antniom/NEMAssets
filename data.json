@@ -238,7 +238,7 @@
     },
     {
       "name": "Sweat",
-      "price": "35",
+      "price": "30",
       "description": "Sweat de Curso 26/27",
       "images": [
         "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789377882846_955.png",
@@ -2423,5 +2423,6 @@
       "createdAt": 1788808026903,
       "updatedAt": 1789226501168
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1789395566376
 }
