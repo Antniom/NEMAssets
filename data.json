@@ -325,7 +325,7 @@
       "archived": true
     },
     {
-      "name": "Casaco",
+      "name": "Sweat",
       "price": "30",
       "description": "Casaco de Curso 26/27",
       "images": [
@@ -435,7 +435,7 @@
         "XL"
       ],
       "startDateISO": "2026-09-14T15:00",
-      "endDateISO": "2026-10-25T23:59",
+      "endDateISO": "2026-10-21T23:59",
       "detailedDescription": "Promoção por tempo limitado! Compra a sweat e o casaco de mecânica e aproveita um preço especial irresistível!!!"
     }
   ],
@@ -2424,5 +2424,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789380981081
+  "autoMaintenanceUntil": 1789380998511
 }
