@@ -305,7 +305,8 @@
         "XL"
       ],
       "startDateISO": "2026-09-14T15:00",
-      "endDateISO": "2026-10-01T23:59"
+      "endDateISO": "2026-10-01T23:59",
+      "detailedDescription": "Sweat de mecânica com bordados no peito, costas e punho."
     },
     {
       "name": "Boi Careca",
@@ -2421,5 +2422,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789379395266
+  "autoMaintenanceUntil": 1789379398301
 }
