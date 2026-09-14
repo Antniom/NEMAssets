@@ -420,7 +420,7 @@
     {
       "name": "Casaco + Sweat",
       "price": "60",
-      "description": "Descrição...",
+      "description": "Promoção por tempo limitado! Compra a sweat e o casaco de mecânica e aproveita um preço especial irresistível!!!",
       "images": [
         "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789378698873_640.png",
         "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789378716103_867.png",
@@ -2422,5 +2422,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789379398301
+  "autoMaintenanceUntil": 1789379467317
 }
