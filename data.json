@@ -342,9 +342,9 @@
       "images": [],
       "image": "",
       "formUrl": "",
-      "model_url": "https://51qszcxj8jhttvws.public.blob.vercel-storage.com/models/1788382655163_Sweat1-5e5Fv7CmTTmdSmzm2qQ1mbKCYBuvWO.glb",
-      "model_color": "#333333",
-      "model_material": "custom",
+      "model_url": "",
+      "model_color": "",
+      "model_material": "",
       "model_roughness": 0.95,
       "model_metalness": 0.05,
       "model_logos": [
@@ -412,24 +412,8 @@
           "userSpin": 0
         }
       ],
-      "model_logo_url": "https://raw.githubusercontent.com/nem-estg/NEMAssets/main/assets/images/logos/logos_1789370353926_9341.svg",
-      "model_logo_transform": {
-        "position": [
-          -0.10279138523441907,
-          -0.0418284930368351,
-          -0.3533414023043264
-        ],
-        "rotation": [
-          3.057503332102272,
-          -0.48713995922045783,
-          3.102157817957677
-        ],
-        "scale": [
-          0.6,
-          0.6,
-          1
-        ]
-      },
+      "model_logo_url": "",
+      "model_logo_transform": null,
       "availableSizes": [
         "S",
         "M",
@@ -2425,5 +2409,5 @@
       "updatedAt": 1789226501168
     }
   ],
-  "autoMaintenanceUntil": 1789370466816
+  "autoMaintenanceUntil": 1789374295126
 }
