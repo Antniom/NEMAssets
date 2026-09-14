@@ -420,8 +420,10 @@
       "name": "Casaco + Sweat",
       "price": "60",
       "description": "Descrição...",
-      "images": [],
-      "image": "",
+      "images": [
+        "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789378698873_640.png"
+      ],
+      "image": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789378698873_640.png",
       "formUrl": "",
       "availableSizes": [
         "S",
@@ -2414,5 +2416,6 @@
       "createdAt": 1788808026903,
       "updatedAt": 1789226501168
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1789378820234
 }
