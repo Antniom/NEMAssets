@@ -243,9 +243,9 @@
       "images": [],
       "image": "",
       "formUrl": "",
-      "model_url": "https://51qszcxj8jhttvws.public.blob.vercel-storage.com/models/1788044988504_wind_breaker_jacket-GguZ2H1saVkLkoVluaTBFg0YZakUBT.glb",
-      "model_color": "#1a1a1a",
-      "model_material": "cotton",
+      "model_url": "",
+      "model_color": "",
+      "model_material": "",
       "model_logos": [
         {
           "id": "logo_1788045555176",
@@ -290,24 +290,8 @@
           "userSpin": -0.05235987755982988
         }
       ],
-      "model_logo_url": "https://raw.githubusercontent.com/nem-estg/NEMAssets/main/assets/images/logos/logos_1789370350246_4583.svg",
-      "model_logo_transform": {
-        "position": [
-          -0.16375118458994492,
-          0.1962343913487557,
-          0.16574396254910334
-        ],
-        "rotation": [
-          -0.36928271645083416,
-          -0.39959920315052877,
-          0.17453292519943295
-        ],
-        "scale": [
-          0.149,
-          0.149,
-          1
-        ]
-      },
+      "model_logo_url": "",
+      "model_logo_transform": null,
       "model_roughness": 0.95,
       "model_metalness": 0,
       "availableSizes": [
@@ -2412,5 +2396,6 @@
       "createdAt": 1788808026903,
       "updatedAt": 1789226501168
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1789377987376
 }
